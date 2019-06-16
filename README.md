@@ -7,8 +7,8 @@ In the deployed web app will take the review of movie from the user and will pre
 
 **`For Positive Review`**:
 
-![Positive Review](/web app positive review.png)
+![Positive Review](../web app positive review.png)
 
 **`For Negative Review`**:
 
-![Negative Review](/web app negative review.png)
+![Negative Review](../web app negative review.png)
